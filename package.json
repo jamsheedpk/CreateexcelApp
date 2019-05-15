@@ -1,0 +1,13 @@
+{
+  "name": "createexcelapp",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "excel4node": "^1.7.2",
+    "express": "~4.16.1",
+    "xlsx": "^0.14.3"
+  }
+}
