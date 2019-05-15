@@ -1,13 +1,15 @@
 # CreateexcelApp
 json file use create a excel file simple example 
 
-git clone https://github.com/jamsheedpk/CreateexcelApp.git
+Step1:git clone https://github.com/jamsheedpk/CreateexcelApp.git
 
-cd CreateexcelApp
-node app.js  (create file this same folder file name =ExampleName.xls)
-and
-node app1.js (file name ExcelFileName.xlsx) same dir
- 
+Step2: cd CreateexcelApp
+Step3: node app.js  (create file this same folder file name =ExampleName.xls)
+     or
+Step3 :node app1.js (file name ExcelFileName.xlsx) same dir
+
+
+ #.................................
  
 * Store JSON data in a variable 
 
